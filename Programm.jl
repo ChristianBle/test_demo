@@ -1,5 +1,5 @@
-
-print("Hello World")
+print("hallo welt")
+print("Hello bladad")
 print("lalala")
 
 
